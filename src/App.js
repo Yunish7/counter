@@ -9,7 +9,7 @@ class App extends Component {
         <form>
           <button onClick = {this.add}>+</button>
           <button onClick = {this.substract}>-</button>
-          <button>toggle</button>
+          <button>Click here for more</button>
         </form>
       </div>
     );
